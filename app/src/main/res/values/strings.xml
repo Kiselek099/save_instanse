@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Users_directory</string>
+    <string name="toolbarTitle">Каталог пользователей</string>
+    <string name="editName">Введите имя</string>
+    <string name="editAge">Введите возраст</string>
+    <string name="buttonText">Сохранить</string>
+    <string name="exit">Exit</string>
+</resources>
